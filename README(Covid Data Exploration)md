@@ -1,29 +1,21 @@
 # Covid Data Exploration
 
-Covid 19 pandemic have had several short-term as well as long term impacts on human health, society, economy and environment. A pandemic which broke out in 2019 created significant knock-on effects on the daily life of citizens, as well as about the global economy.
+The Covid-19 pandemic has had several short-term and long-term impacts on human health, society, economy, and environment. A pandemic that broke out in 2019 created significant knock-on effects on daily life and the global economy.
 
-Presently the impacts of COVID-19 in daily life are extensive and have far reaching consequences.
+Presently, the impacts of COVID-19 on daily life are extensive and have far-reaching consequences.
 
-In this project, I analyzed and explored covid data with SQL using Micrsoft SQL Server Management Studio.
+In this project, I analyzed and explored Covid-19 data with SQL using Microsoft SQL Server Management Studio.
 
-This covid-19 data was sourced from [Our World in Data](https://ourworldindata.org/covid-deaths) starting from 1st January, 2020 to 5th November, 2022.
-
-
+This Covid-19 data was sourced from [Our World in Data](https://ourworldindata.org/covid-deaths) starting from January 1, 2020, to November 5, 2022.
 
 # Summary of Findings
 
-According to the insights derived from the covid data :
+According to the insights derived from the Covid-19 data:
 
-* The total covid-19 cases confirmed was 630,711,800 cases
-
-* The total deaths recorded was 6,561,569
-
-* The global percentage death was 1.04 percent
-
-* United satates, India, France, and Brazil had the total number of confirmed cases.
-
-* United states, Brazil, India, Russia and Mexico recorded the highest deaths.
-
-* Europe had the highest total cases per continrent, followed by Asia, North merica, and South America.
-
-* Europe had the total number of deaths recorded as per continent, followed by North America, Asia, and South America.
+- The total confirmed Covid-19 cases were 630,711,800.
+- The total deaths recorded were 6,561,569.
+- The global death percentage was 1.04%.
+- The United States, India, France, and Brazil had the highest number of confirmed cases.
+- The United States, Brazil, India, Russia, and Mexico recorded the highest deaths.
+- Europe had the highest total cases per continent, followed by Asia, North America, and South America.
+- Europe also had the highest total number of deaths per continent, followed by North America, Asia, and South America.
